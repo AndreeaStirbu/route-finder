@@ -9,11 +9,11 @@ This engine can be used by many kind of users, people who want to:
 
 
 Languages used:
-    C#, SQL
+    - C#, SQL
 
 Skills that will be improved:
-    User Interface Design
-    Writing queries
-    Learning C# 
-    Applying SOLID design principles
-    Getting better with Version Control (git)
+    - User Interface Design
+    - Writing queries
+    - Learning C# 
+    - Applying SOLID design principles
+    - Getting better with Version Control (git)
